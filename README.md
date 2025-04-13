@@ -38,7 +38,7 @@ ReelsViewController      // Handles UI and scrolling behavior
 🔧 Getting Started
 
 Clone the repository:
-git clone [https://github.com/your-username/reels-app.git](https://github.com/samreenkaur/ReelsApp.git)
+git clone [https://github.com/samreenkaur/ReelsApp.git](https://github.com/samreenkaur/ReelsApp.git)
 cd reels-app
 Install dependencies:
 Ensure you have Xcode installed.
